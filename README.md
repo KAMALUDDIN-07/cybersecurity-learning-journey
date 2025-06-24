@@ -30,4 +30,4 @@ My Practical Journey from Beginner to Practitioner in Offensive Security
   - GitHub created
 
 ## 🎯 Goal:
-To become a job-ready offensive security professional and help others by sharing my learning journey.
+To become a skilled offensive security professional and help others by sharing my learning journey.
