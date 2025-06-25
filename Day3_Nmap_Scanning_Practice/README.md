@@ -23,6 +23,7 @@ Open Ports:
 23/tcp – Telnet  
 80/tcp – HTTP  
 ... (more may appear)
+
 🔹 3. 🔎 Service Version Detection
 
 nmap -sV 192.168.172.129
