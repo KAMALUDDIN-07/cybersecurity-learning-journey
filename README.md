@@ -2,7 +2,7 @@
 **Documenting My Practical Growth from Beginner to Cybersecurity Practitioner**
 
 
-## 📅 Day 1 – Introduction to Offensive Security
+##  Day 1 – Introduction to Offensive Security
 
 ### 🔍 What I Learned
 
