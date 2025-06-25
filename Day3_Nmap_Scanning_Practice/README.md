@@ -36,3 +36,8 @@ Script Results (like HTTP titles, FTP info)
 nmap -sS -oN syn-scan.txt <Your Metasploitable IP>
 nmap -sV -oN version-scan.txt <Your Metasploitable IP>
 nmap -A  -oN aggressive-scan.txt <Your Metasploitable IP>
+
+📚 What I Learned Today:
+How to scan with Nmap
+Difference between Ping, SYN, Version, Aggressive scans
+Saved outputs for report writing
