@@ -21,8 +21,11 @@ nmap -sS 192.168.172.129
 
 Open Ports:
 21/tcp – FTP  
+
 22/tcp – SSH  
+
 23/tcp – Telnet  
+
 80/tcp – HTTP  
 
 ... (more may appear)
@@ -34,7 +37,9 @@ nmap -sV 192.168.172.129
 📝 Result:
 
 FTP: vsftpd 2.3.4  
-SSH: OpenSSH 4.7p1  
+
+SSH: OpenSSH 4.7p1 
+ 
 HTTP: Apache httpd 2.2.8
 
 🔹 4. 🧠 Aggressive Scan – Deep Enumeration
@@ -52,7 +57,9 @@ Script results (e.g., HTTP title, FTP banner)
 📁 Output Saved (in Kali)
 
 nmap -sS -oN syn-scan.txt  192.168.172.129
+
 nmap -sV -oN version-scan.txt  192.168.172.129
+
 nmap -A -oN aggressive-scan.txt  192.168.172.129
 
 📚 What I Learned Today
