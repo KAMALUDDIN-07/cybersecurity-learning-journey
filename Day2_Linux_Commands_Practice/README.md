@@ -1,4 +1,4 @@
-## 📅 Day 2 – Practical Linux Commands for Ethical Hackers 🐧💻
+##  Day 2 – Practical Linux Commands for Ethical Hackers 🐧💻
 
 ### 📂 Basic Navigation
 - `pwd` – Print current directory  
